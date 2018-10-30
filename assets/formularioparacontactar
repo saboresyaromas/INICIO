@@ -1,0 +1,5 @@
+<form method="POST" action="https://formspree.io/sabores.fusion.copiapo@gmail.com">
+  <input type="email" name="email" placeholder="sabores.fusion.copiapo@gmail.com">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
